@@ -37,11 +37,9 @@ https://shadowverse-portal.com/deckbuilder/create/3?hash=1.3.61O4A.61O4A.5-gkQ.5
 
 炎の握撃　2
 
-サタン　1
-
 フレイムデストロイヤー　2
 
-次元の超越　1
+次元の超越　2
 
 # コミットコメントに書くには長いコメント，思い出等
 
