@@ -11,7 +11,7 @@ https://shadowverse-portal.com/deckbuilder/create/3?hash=1.3.61O4A.61O4A.61O4A.5
 
 知恵の光　3
 
-ベルエンジェル　3
+ベルエンジェル　2
 
 ペンギンウィザード　3
 
@@ -20,8 +20,6 @@ https://shadowverse-portal.com/deckbuilder/create/3?hash=1.3.61O4A.61O4A.61O4A.5
 ゴーレムの錬成　3
 
 ウィンドブラスト　3
-
-虹の輝き　1
 
 サモンスノー　2
 
@@ -32,6 +30,8 @@ https://shadowverse-portal.com/deckbuilder/create/3?hash=1.3.61O4A.61O4A.61O4A.5
 マーリン　1
 
 ファイアーチェーン　2
+
+ゴブリンマウントデーモン　2
 
 運命の導き　3
 
