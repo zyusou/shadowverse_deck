@@ -1,17 +1,16 @@
-# Shadowverse 安ウィッチデッキ
-メインで使用するデッキ．超越とマリーンが生成できるエーテルがほしい．
-序盤はペンギンで殴りつつ，除去カードで場を制圧して，最後はルーンブレードとか，
-フレイムデストロイヤーとかでぶん殴って勝ちます．
+# Shadowverse メインウィッチデッキ
+典型的？な超越ウィッチデッキ．随時更新します．
+場に出たフォロワー絶対殺すマン．
 
 ## URL
-https://shadowverse-portal.com/deckbuilder/create/3?hash=1.3.61O4A.61O4A.61O4A.5-gkQ.5-gkQ.5-gkQ.61NLI.61NLI.62U8Y.62U8Y.62U8Y.5-gka.5-gka.5-gka.5-gkk.5-gkk.5-gkk.5-gku.5-gku.5-gku.5-gl2.5-gl2.62XK8.62XK8.62Wbk.62Wbk.62bTS.62ZmO.62ZmO.61NLm.61NLm.62Uta.62Uta.62Uta.5-glM.5-glM.5-iRo.5-iRo.62Zm4.62Zm4
+https://shadowverse-portal.com/deckbuilder/create/3?hash=1.3.61O4A.61O4A.5-gkQ.5-gkQ.5-gkQ.61NLI.61NLI.61NLI.62U8Y.62U8Y.62U8Y.5-gka.5-gka.5-gka.5-gkk.5-gkk.5-gkk.5-gku.5-gku.62U9A.62Way.62XK8.62XK8.62XKI.62XKI.62Wbk.62Wbk.62bTS.62bTS.62ZmO.62ZmO.61NLm.61NLm.62Uta.62Uta.62Uta.5-glM.5-iRo.62Zm4.62Zm4
 
 ## 使用カード
-エンジェルスナイプ　3
+エンジェルスナイプ　2
 
 知恵の光　3
 
-ベルエンジェル　2
+ベルエンジェル　3
 
 ペンギンウィザード　3
 
@@ -19,15 +18,19 @@ https://shadowverse-portal.com/deckbuilder/create/3?hash=1.3.61O4A.61O4A.61O4A.5
 
 ゴーレムの錬成　3
 
-ウィンドブラスト　3
+ウィンドブラスト　2
 
-サモンスノー　2
+ガントレットヒーラー　1
+
+スペクトラルウィザード　1
 
 魔力の蓄積　2
 
+変成の魔術　2
+
 ルーンブレードサモナー　2
 
-マーリン　1
+マーリン　2
 
 ファイアーチェーン　2
 
@@ -35,13 +38,18 @@ https://shadowverse-portal.com/deckbuilder/create/3?hash=1.3.61O4A.61O4A.61O4A.5
 
 運命の導き　3
 
-炎の握撃　2
+炎の握撃　1
 
-フレイムデストロイヤー　2
+フレイムデストロイヤー　1
 
 次元の超越　2
 
 # コミットコメントに書くには長いコメント，思い出等
+
+2016/08/27
+マーリンを2枚にしたけど，それでもやはり扱いが難しいと思う……．
+手札には殆ど困らないけど，フィニッシャーが手札に来れば勝てる，というわけではなくて，
+手札で温めておいて勝てるようになるというのがどうもこう，今更性に合わない気がしてきた．
 
 2016/07/30
 C0になって勝率が若干下がったように感じる
