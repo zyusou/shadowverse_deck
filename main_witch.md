@@ -3,7 +3,7 @@
 場に出たフォロワー絶対殺すマン．
 
 ## URL
-https://shadowverse-portal.com/deckbuilder/create/3?hash=1.3.61O4A.61O4A.5-gkQ.5-gkQ.5-gkQ.61NLI.61NLI.61NLI.62U8Y.62U8Y.62U8Y.5-gka.5-gka.5-gka.5-gkk.5-gkk.5-gkk.5-gku.5-gku.62U9A.62Way.62XK8.62XK8.62XKI.62XKI.62Wbk.62Wbk.62bTS.62bTS.62ZmO.62ZmO.61NLm.61NLm.62Uta.62Uta.62Uta.5-glM.5-iRo.62Zm4.62Zm4
+https://shadowverse-portal.com/deck/1.3.61O4A.61O4A.5-gkQ.5-gkQ.5-gkQ.61NLI.61NLI.61NLI.62U8Y.62U8Y.62U8Y.5-gka.5-gka.5-gka.5-gkk.5-gkk.5-gkk.5-gku.5-gku.62U9A.62Way.62XK8.62XK8.62XKI.62XKI.62Wbk.62Wbk.62bTS.62bTS.62ZmO.62ZmO.61NLm.61NLm.62Uta.62Uta.62Uta.5-glM.5-iRo.62Zm4.62Zm4
 
 ## 使用カード
 エンジェルスナイプ　2
